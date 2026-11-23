@@ -1,10 +1,8 @@
 # Patient Readmission Analysis (30-Day Healthcare Analytics Pipeline)
 
-[![Python](https://img.shields.io/badge/Python-Pandas%20%7C%20NumPy-blue?logo=python)](https://www.python.org/)
-[![SQL](https://img.shields.io/badge/SQL-Oracle%20%7C%20MySQL%208.0-orange?logo=mysql)](https://www.mysql.com/)
-[![Power BI](https://img.shields.io/badge/Power%20BI-Desktop%20Dashboard-F2C811?logo=powerbi)](https://powerbi.microsoft.com/)
 [![Domain](https://img.shields.io/badge/Domain-Healthcare%20Analytics-00778B)]()
-
+[![My Skills](https://skillicons.dev/icons?i=py,mysql)](https://skillicons.dev)
+<img src="https://skills.syvixor.com/api/icons?i=powerbi&perline=12&radius=40" alt="Skill Icons" />
 > **HCL Data Analyst Capstone — Project #16**  
 > **Author:** Devansh Kumar (`2025B15410038`)  
 > **Dataset:** Diabetes 130-US Hospitals for Years 1999–2008 (Kaggle / UCI)
